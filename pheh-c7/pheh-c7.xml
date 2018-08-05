@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Ecclesiastica Hierarchia, Caput septimum</title>
+        <author ref="#Dionysius">Pseudo-Dionysius</author>
+        <editor/>
+        <respStmt>
+          <name>Marco Toste</name>
+          <resp when="2006">Digital text preparation </resp>
+        </respStmt>
+        <respStmt>
+          <name>João Rebalde</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-07">July 07, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-07-07">July 07, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do
+            Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-07" status="draft" n="0.0.0-dev">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pdeh-c1">
+        <head xml:id="pdeh-c1-Hd1e104">De Ecclesiastica Hierarchia, Caput septimum</head>
+        <p xml:id="pdeh-c1-d1e129">
+          Istis autem determinatis, necesse est dicere, ut arbitror, et ea que fiunt a nobis sancte
+          in hiis qui dormierunt. Etenim neque hoc conmune est sanctis et inmundis. Sed sicut varia
+          species alterutrorum vite, ita et ad mortem euntes, qui quidem sanctam habuerunt vitam ad
+          veras promissiones thearchie respicientes sicut veritatem ipsarum in ipsius resurrectione
+          contemplati, cum forti et vera spe in letitia divina ad mortis finem vadunt, sicut in fine
+          sanctorum agonum in perfecta et interminabili vita et salvatione, sua futura esse omnino
+          scientes per futuram ipsorum totalem resurrectionem. Nam sancte quidem anime ad peiora
+          decidere conversione valentes in hoc seculo in regeneratione ad inconversibile habebunt
+          deiformissimam transformationem. Munda autem corpora sanctarum animarum coniuga et
+          conambulabilia condescripta et que simul certaverunt in divinis ipsarum sudoribus, in
+          animarum inconversibili secundum divinam vitam collocatione, simul accipient propriam
+          resurrectionem. Unita enim hiis sanctis animabus, quibus unita fuerant in hoc seculo,
+          sicut menbra Christi facta, deiformem et incorruptibilem et inmortalem et beatam accipient
+          vitam.
+        </p>
+        <p xml:id="pdeh-c1-d1e132">
+          Igitur quidem in istis sanctorum est dormitio in letitia et inmobili spe ad divinorum
+          agonum perveniens finem. Inmundorum autem alii quidem ad consumptionem irrationabiliter
+          putant proficisci, alii autem corporalem semel abrumpi a propriis animabus coniunctionem,
+          sicut inconvenientem ipsis in deiformi vita et beatis finibus, non intelligentes neque
+          sufficienter in scientia divina docti, inceptam iam in Christo nostram deiformissimam
+          vitam; alii autem corporum aliorum attribuunt animabus coniunctionem, iniuriam, ut
+          arbitror, facientes quantum in ipsis est corporibus, que cum sanctis animabus certarunt,
+          et sanctis retributionibus non religiose privantes ea que ad finem divinissimorum cursuum
+          pervenerunt; alii autem nescio quomodo ad materiales intentiones declinantes dixerunt
+          consimilem huic seculo sanctissimum et beatissimum finem sanctis promissum et alimenta
+          propria variabili seculo, hiis qui erunt equales angelis inconvenienter adiecerunt.
+        </p>
+        <p xml:id="pdeh-c1-d1e135">
+          Set non cadat aliquis aliquando sanctissimorum virorum ad tales errores, sed totos
+          seipsos accepturos christiformem finem, scientes, quando ad finem veniunt huius seculi,
+          viam ad incorruptionem ipsorum, sicut propinquiorem factam, manifestius vident, et dona
+          thearchie laudant et divina delectatione adimplentur, ad peiora conversionem non iam
+          formidantes, sed bene scientes quod bona concessa fortiter et eternaliter habebunt. Qui
+          autem sordibus sunt pleni et inmundis maculis, si sanctam quandam consecuti sunt
+          doctrinam, ipsi autem hanc ex propria mente perdite conterentes, ad corruptivas conati
+          sunt concupiscentias, quando ad finem veniunt huius vite, non iam similiter ipsis
+          contemptibilis videtur eloquiorum divina legislatio. Destructas autem propriarum passionum
+          delectationes aliis oculis inspicientes et sanctam vitam a qua stulte ceciderunt,
+          beatificantes, miserabiliter et contra voluntatem abscinduntur ab hoc seculo, ad nullam
+          spem manuducti propter pessimam vitam.
+        </p>
+        <p xml:id="pdeh-c1-d1e138">
+          Istorum autem nullo futuro in dormitionibus sanctorum virorum, ipse quidem quando ad
+          finem veniet propriorum agonum, letitia sancta adimpletur et cum delectatione multa ad
+          vitam supervenit sancte regenerationis. Familiares autem eius qui dormivit secundum
+          divinam familiaritatem et vite similitudinem et ipsum quisquis est, beatificant ad finem
+          victoriam ferentem, iuxta votum, pervenientem et cause victorie cum gratiarum actione odas
+          referunt, insuper optantes se ipsos venire ad similem finem. Sumentes autem illum ad
+          Ierarcham agunt, sicut ad coronarum sanctarum donatorem. Ille vero delectabiliter suscipit
+          et parficit ea que fiunt secundum legem sanctam in hiis qui sancte dormierunt. Congregans
+          divinus Ierarcha chorum sanctum, si sacerdotalis quidem ordinis factus fuit qui dormivit,
+          ante sanctum altare inclinans ipsum incipit ad Deum orationem et gratiarum actionem. Si
+          autem religiosis monachis aut sancto populo coordinatus fuit, iuxta pretiosum sanctuarium
+          ipsum inclinat ante introitum sacerdotalem. Postea perficit ad Deum cum gratiarum actione
+          Ierarcha orationem. Consequenter autem ministri legentes in divinis eloquiis dictas
+          veraces promissiones de sancta nostra ressurrectione sancte cantant eiusdem rationis idest
+          potentes odas psalmicorum eloquiorum. Postea ministrorum primus absolvit cathecumenos et
+          predicat sanctos qui iam dormierunt cum quibus rogat fieri coordinate predicationis eum
+          qui nunc perficitur et adhortatur cunctos petere pro ipso beatam perfectionem. Postea
+          accedens divinus Ierarcha orationem sanctissimam super ipsum facit et post presentes
+          universi. Osculatis vero omnibus superfundit oleum Ierarcha ei qui dormivit et pro omnibus
+          orationem sanctam faciens deponit in domo pretiosum corpus cum aliis eiusdem ordinis
+          sanctis corporibus.
+        </p>
+        <p xml:id="pdeh-c1-d1e142">
+          Hec quidem si videant aut audiant inmundi a nobis fieri, late ridebunt, ut urbitror, et
+          de errore nos miserebuntur. Non oportet autem ad hoc mirari. Nam nisi crediderint, ut
+          eloquia dicunt, neque intelligent. Nos autem intelligibilia eorum que fiunt, inspicientes,
+          Ihesu illuminante, dicimus quod non irrationabiliter Ierarcha ad coordinatum chorum
+          inducit et imponit eum qui dormivit. Significat enim sancte quod in illis erunt
+          participationibus omnes in regeneratione, in quibus propriam vitam secuti sunt sicut si
+          deiformem et sanctissimam, sicut viro Dei inmitativum est possibile, hic habuit vitam, in
+          divinis erit et beatis finibus in seculo futuro. Si autem a deiformi secundum summum,
+          subiectam habuit vitam, sanctam autem tamen, conformes et iste recipiet sanctas
+          retributiones. Pro hac divina iustitia Ierarcha gratias agens orationem sanctam facit et
+          venerandam laudat thearchicam, sicut destructivam contra nos omnes existentis iniuste et
+          thyranice potestatis, transducentem autem nos ad propria iustissima iudicia. Thearchicarum
+          autem promissionum ode et lectiones manifestative quidem sunt beatissimorum finium, in
+          quibus, qui divinam habuerunt perfectionem, eternaliter constituuntur. Eius autem qui
+          dormivit, sancte sunt susceptive. Adhuc autem viventium adhortative ad similem
+          perfectionem.
+        </p>
+        <p xml:id="pdeh-c1-d1e145">
+          Inspice autem quod nunc non omnes ordines qui mundantur, secundum consuetudinem
+          absolvuntur. Soli autem cathecumeni a sanctis choris excluduntur. Etenim hic ordo quidem
+          indoctus est universaliter omnis sancte perfectionis, et nichil non parvum, non magnum
+          eorum que sancte fiunt, inspicere ipsi licet, sicut nec participanti sanctorum inspectiva
+          virtute, per Dei generationem et luminis principem et luminis donatricem. Reliqui autem
+          eorum qui mundantur ordines in doctrina quidem iam facti sunt sancte tradidonis.
+          Inprudenter autem ad deteriora rursus cucurrerunt. Opportune autem ad priora
+          sursumactionem perficientes, a thearchicis quidem inspectionibus et conmunionibus, sicut
+          in signis sanctis, distinguuntur. Lederentur enim inmunde ipsis participantes et ad
+          maiorem divinorum et sui ipsorum veniunt contemptum. Non inconvenienter autem assunt in
+          hiis que nunc fiunt, manifeste docti et videntes nostre mortis contemptum et sanctorum
+          honores a veris eloquiis laudatos, et quasi conminantur fore inmundis, sicut ipsi sunt,
+          interminabiles tristitias. Erit enim ipsis ad utilitatem, videntibus eum qui sancte
+          perfectus est, a ministri enuntiatione conmunicatorem vere existentem sanctorum a seculo
+          sancte predicatum. Et forsitan et ipsi ad simile desiderium venient et a ministrorum
+          scientia docebuntur beatam vere esse in Christo perfectionem.
+        </p>
+        <p xml:id="pdeh-c1-d1e148">
+          Postea procedens divinus Ierarcha orationem sanctam facit super eum qui dormivit et post
+          orationem et ipse Ierarcha ipsum osculatur et consequenter presentes universi. Igitur
+          oratio quidem precatur thearchicam bonitatem, ut dimittat quidem ei qui dormivit, omnia
+          que per humanam infirmitatem peccavit, et constituat ipsum in lumine et regione viventium
+          in sinibus Habrahe, Ysaac et Iacob, in loco a quo aufugiat dolor et tristitia et gemitus.
+          Igitur, ut arbitror, hec quidem sunt manifesta sanctorum beatissima dona. Quid enim sit
+          perfecte tristitia carenti et illuminative inmortalitati equale? quamvis maxime
+          significationibus nobis proportionalibus promissiones ille omni intellectu altiores sint
+          significate, et a reali ipsarum veritate minus continentes habent significationes. Nam
+          arbitrandum est verum esse eloquium, quod oculus non vidit, et auris non audivit, et in
+          cor hominis non ascendit, que preparavit Deus diligentibus se. Sinus autem sunt, sicut
+          reor, beatissimorum patriarcharum et reliquorum sanctorum universorum divinissimi et
+          beatissimi fines qui deiformes suscipiunt omnes ad perfectionem in ipsis sine senectute
+          beatissimam.
+        </p>
+        <p xml:id="pdeh-c1-d1e151">
+          Dicas autem forsitan, hec quidem recte esse dicta a nobis, dubitare autem, cuius gratia
+          thearchicam bonitatem Ierarcha rogat petens, ut ei, qui dormivit, peccata dimittat, et
+          deiformibus coordinatem et clarissimam partitionem tribuat. Si enim omnes recipient a
+          divina iustitia retributionem illorum bonorum aut malorum que gessit in presenti vita,
+          perfecit autem proprias operationes qui dormivit, a qua ierarchica oratione ad alium finem
+          transferetur quam dignum ipso, et qui, pro presenti vita, retribuetur? Ego autem bene novi
+          eloquium sequens quod unusquisque quidem habebit quam promeruit portionem. Dicitur enim:
+          Determinavit Deus apud se; et, Portabit unusquisque in corpore secundum ea qua fecit sive
+          bonum sive malum. Quod autem orationes sanctorum in dignis sanctis orationibus operantur
+          solum in presenti seculo, ne dum post mortem, eloquiorum nos vere docent traditiones. Quid
+          enim utilitatis a Samuele Saul est consecutus? quid autem hebreorum populum iuvit
+          prophetica oratio? Etenim sicnt si aliquis, sole propria donante lumina, illesis oculis in
+          participatione solaris luminis petit fieri, proprios destruens, ita ad impossibiles spes
+          et superfluas elevatur, qui sanctorum orationes petit et secundum naturam ipsorum sanctas
+          operationes excludit negligentia divinorum donorum et a manifestissimis et bonum
+          conferentibus preceptis recessione.
+        </p>
+        <p xml:id="pdeh-c1-d1e154">
+          Dico autem, eloquia sequens, quod utiles omnino sunt in hoc seculo sanctorum orationes
+          secundum hunc modum: Si aliquis sancta desiderans dona, et ad participationem ipsorum
+          habitum sanctum habens, sicut proprie cognitor parvitatis, veniens ad aliquem sanctorum
+          virorum rogat ipsum fieri susceptorem et cooperatorem, consequetur omnino que petit,
+          divinissima dona, recipiente ipsum thearchica bonitate, et propria religiosa sui ipsius
+          cognitione, et in sanctis reverentia, et petitarum sanctarum petitionum laudabili
+          desiderio, et conveniente et deiformi proprio habitu, est enim et hoc thearchici iudicii
+          decretum divina dona dignis participatione in ordine Deo convenientissiimo donari per eos
+          qui sunt digni tradere.
+        </p>
+        <p xml:id="pdeh-c1-d1e157">
+          Igitur si quis inprobet istum sanctum ornatum et ad miseram opinionem veniens,
+          sufficientem se ipsum arbitretur ad thearchicam collocationem et sanctos contempnat et
+          etiamsi petitiones indignas Deo et non sanctas postulat et desiderium divinorum non forte
+          habet et sibi ipsi conveniens, per se ipsum privabitur consecutione petitionis imperite.
+          De dicta autem oratione qua Ierarcha orat super eum qui dormivit, ad nos venientem ex
+          divinis nostris ducibus traditionem dicere est necessarium. Divinus Ierarcha
+          manifestativus est sicut eloquia dicunt thearchicorum iudiciorum. Angelus enim Dei
+          omnipotentis est. Didicit igitur ex eloquiis a Deo traditis quod hiis qui sancte vixerunt,
+          clarissima et divina vita secundum dignitatem a iustissimis legibus retribuitur
+          supportante bonitate thearchice benignitatis ingenitas ipsis ex humana infirmitate
+          maculas, quoniam, ut eloquia dicunt, nullus mundus est a macula.
+        </p>
+        <p xml:id="pdeh-c1-d1e161">
+          Igitur hec quidem Ierarcha novit promissa a veris eloquiis. Postulat ipsa fieri, et dari
+          hiis qui sancte vixerunt, sanctas retributiones, simul quidem ad Dei inmitativum benigne
+          figuratus, et aliorum dona sicut proprias expetens gratias, simul autem et veras
+          promissiones sciens futuras, et presentibus manifestative significans quod ea que ab ipso
+          secundum legem sancta sunt petita, omnino erunt hiis qui secundum divinam vitam sunt
+          perfecti. Non enim Ierarcha thearchice iustitie recitator postularet aliquando ea que non
+          sunt Deo amicissima, et ab ipso dari deiformiter promissa. Propter quod et hiis qui
+          inmunde dormierunt, non precatur ista, non solum quod recitativo in hoc pervertetur ordine
+          et aliquid ierarchicorum superbe auderet, non a principe perfectionum motus. Sed quoniam
+          inmundam orationem non consequetur a iusto eloquio, et ipse non inconvenienter audiens:
+          Petitis et non accipitis, idcirco quia male petitis.
+        </p>
+        <p xml:id="pdeh-c1-d1e164">
+          Igitur divinus Ierarcha expetit ea que divinitus sunt promissa, et amica Deo, et omnino
+          donanda, quod est proprii boni habitus, monstrans amatori bonorum Deo et presentibus
+          manifestative significans sanctis futura dona. Ita et segregativas habent Ierarche
+          virtutes, sicut manifestativi divinorum iudiciorum non sicut irrationabilibus motibus
+          ipsorum omni sapiente thearchia, ut usualiter dicatur, familiariter obsequente, set ut
+          ipsis sub spiritu principe perfectionis movente iudicatos recitative a Deo secundum
+          benignitatem segregantibus. Dicit enim: Accipite Spiritum Sanctum. Si aliquorum
+          remiseritis peccata dimissa sunt; si aliquorum tenetis, retenta sunt. Et illi qui divinis
+          revelationibus sanctissimi patris erat illuminatus, eloquia dicunt: Quodcumque ligaveris
+          super terram, erit ligatum et in celis, etc. Sicut illo, et omni secundum ipsum Ierarcha
+          secundum sanctas in ipso revelationes paternorum iudiciorum manifestative et delative Dei
+          amicos assumente, et impios expellente. Etenim sanctam illam theologiam, ut eloquia
+          dicunt, non proprio motu non carne et sanguine revelantibus, set, Deo intelligibiliter
+          ipsum propria docente, est locutus.
+        </p>
+        <p xml:id="pdeh-c1-d1e167">
+          Igitur divinos quidem Ierarchas ita segregationibus et omnibus ierarchicis virtutibus
+          uti convenit, quomodo princeps perfectionis ipsos ierarchia moverit. Aliis autem ita
+          ierarchis in hiis que faciunt ierarchice, est obsequendum sicut a Deo motis. Dicit enim:
+          Qui spernit vos, me spernit. Sed revertamur ad dicte orationis consequentia. Perfìciens
+          enim ipsam Ierarcha et ipse osculatur eum qui dormit, et consequenter universi. Dulcis est
+          enim et pretiosus universis deiformibus, qui secundum divinam vitam perfectus est. Post
+          osculum autem superfundit ei qui dormivit, oleum Ierarcha. Recordare autem quod in sancta
+          Dei generatione ante divinissimum baptisma, prima participatio sancti symboli datur ei qui
+          perficitur, post totalem prioris vestis spoliationem, unctionis oleum. In fine autem
+          universorum nunc super illum qui dormivit, oleum effunditur; et tunc quidem olei unctio ad
+          sanctos agones vocabat eum qui perfìciebatur, nunc autem superfusum oleum signifìcat
+          secundum eosdem sanctos agones certavisse et perfectum fuisse eum qui dormivit.
+        </p>
+        <p xml:id="pdeh-c1-d1e170">
+          Hec perficiens Ierarcha deponit in domo pretiosa corpus cum aliis sanctis eius ordinis
+          corporibus. Si enim in anima et corpore Deo amicam vitam qui dormivit, vivebat, pretiosum
+          erit cum sancta anima et corpus quod concertavit ipsi in sanctis sudoribus. Unde divina
+          iustitia ipsi donat retributionis fines eum corpore, sicut coambulabili et conparticipi
+          sancte aut contrarie vite; propter quod et sanctorum divina legislatio thearchicas
+          conmuniones ambobus donat, anime quidem in munda contemplatione et scientia eorum que
+          fiunt; corpori vero secundum divinissimum unguentum et in ymagine et thearchice
+          conmunionis sanctissima signa totum hominem sanctificans et totalem ipsi salvationem
+          sancte operans et perfectissimam ipsius resurrectionem fore denuntians catholicis
+          sanctificationibus. Perfectivas autem invocationes non est fas in scripturis superexponere
+          neque misticas ipsarum aut sanctas in ipsis ex Deo virtutes ex occulto ad conmune educere.
+          Set sicut sancta nostra traditio habet inegressibilibus doctrinis ipsas discens et ad
+          diviniorem habitum et sursumactionem amore divino et cooperationibus perfectus ab
+          illuminatione principis perfectionis sursumagens ad summam ipsorum scientiam.
+        </p>
+        <p xml:id="pdeh-c1-d1e173">
+          Pueros autem nundum divina intelligere valentes, sancte participes fieri Dei
+          generationis et sanctissimorum thearchice conmunionis signorum, videtur quidem, ut dicis,
+          rationabili risu inmundis dignum, si audire non valentes edoceant Ierarche divina et non
+          intelligentibus vane tradant sanctas traditiones. Et hoc adhuc magis ridendum quod pro
+          ipsis alii abrenuntiationes dicunt et sanctas confessiones. Oportet autem tuam ierarchicam
+          prudentiam non molestari in errantibus sed et reverenter simul et illuminationis ipsorum
+          gratia amabiliter excusare ad prolatas ab ipsis instantias opponentem et hoc secundum
+          legem sanctam quod non in nostra cognitione omnia divina circumscribuntur. Multa autem a
+          nobis ignotorum causas habent Deo convenientes nobis quidem ignotas, scibiles autem
+          ordinibus qui nobis sunt meliores. Multa autem et suppremas substantias latent et a sola
+          diligenter sunt cognita omnisapiente et sapientifica thearchia.
+        </p>
+        <p xml:id="pdeh-c1-d1e176">
+          Set et hoc quod et de isto ista dicimus, que deiformes nostri sanctitatis perfectores ab
+          antiqua docti traditione ad nos produxerunt. Dicunt enim, quod est et verum, quod secundum
+          legem sanctam sursumacti infantes ad habitum sanctum habebunt consuetudinem ab omni errore
+          remoti et inmunde vite expertes. Hoc divinis nostris ducibus ad mentem venit et visum est
+          suscipere infantes secundum istum sanctum modum quod naturales adducti pueri parentes
+          traderent puerum cuidam docto misteriorum, bono in divinis pedagogo, et reliquum sub ipso
+          puer aget, sicut sub divino patre et salvationis sancte susceptore.
+        </p>
+        <p xml:id="pdeh-c1-d1e180">
+          Ab isto igitur confitente sursumagere puerum secundum sanctam vitam Ierarcha appetit, ut
+          abrenuntiationes confiteatur et sanctas consuetudines, non sicut illi ridentes dicunt,
+          alium pro alio divina docens. Neque enim hoc dicit quod pro puero ego abrenuntiationes aut
+          sanctas facio confessiones, sed quod puer abrenuntiabit et coordinabitur, hoc est,
+          confiteor me persuasurum puero venienti ad sanctam mentem meis divinis sursumactionibus,
+          quod abrenuntiabit quidem totaliter contrariis, confitebitur autem et operabitur divinas
+          confessiones. Nichil igitur, ut arbitror, est inconveniens si secundum divinam
+          sursumactionem puer sursumagitur, ducem et susceptorem sanctum habens, habitum ipsi
+          divinorum efficientem, et custodientem contrariorum expertem. Tradit autem puero sancta
+          signa Ierarcha, ut nutriatur in illis et non habeat vitam alteram nisi divinam
+          contemplantem semper et conmunicatricem ipsorum in profectibus sanctis factam, et habitum
+          sanctum in istos vigentem et sursumactum; ut decet sanctum, a deiformi susceptore.
+        </p>
+        <p xml:id="pdeh-c1-d1e183">
+          Tantas, o puer, et ita pulchras nostre Ierarchie videam deiformes visiones. Ab aliis
+          autem forsitan perspicacioribus mentibus non ista solum contemplatione conprehensa sunt
+          set manifestiora multo et deiformiora. Et tibi autem, sicut arbitror, omnino illucebunt
+          splendidiores, pulchriores et diviniores dictis gradibus utenti ad radium superiorem.
+          Trade igitur, o amice, et ipse mihi perfectiorem illuminationem et monstra meis oculis
+          quas videre possint convenientiores pulchritudines et uniformiores. Confido enim quod per
+          dicta ego repositas in te divini ignis accendam scintillas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

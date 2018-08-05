@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Ecclesiastica Hierarchia, Prologus</title>
+        <author>Petrus Hispanus</author>
+        <editor/>
+        <respStmt>
+          <name>Marco Toste</name>
+          <resp when="2006">Digital text preparation </resp>
+        </respStmt>
+        <respStmt>
+          <name>João Rebalde</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-07">July 07, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-07-07">July 07, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-07" status="draft" n="0.0.0-dev">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pheh-prol">
+        <head xml:id="pheh-prol-Hdehpde">De Ecclesiastica Hierarchia, Prologus</head>
+        
+        <p xml:id="pheh-prol-ptafro">Post translationem Angelice Ierarchie translationem Ecclesiastice distuli, quia super ea transferenda tuam voluntatem ignoravi. Verebar autem et meorum nimius approbator et contra Salomonem liminum amici mei tediosus frequentator. Verumptamen ad transferendum magister scolarum me conmovit, qui eius Ierarchie factam a me translationem te approbare et huius postulare confirmavit. Eundem autem modum transferendi in hac Ierarchia quem in celesti observavi, hoc excepto quod latinas dictiones multas pro una greca positas non ubique coniunxi et alicubi sensum potius quam verba sum secutus. Poterit autem aliquem movere, quare placuit latinorum Ecclesie quedam mutare, que constat virum sanctissimum et ab apostolis eruditum tradidisse, immo tradita ab antecessoribus suis narravisse, et quare tradita fuerint, rationes ostendisse.</p>
+        <p xml:id="pheh-prol-eisluc">
+          Epigrama in Sanctum Dionysium in librum De Ecclesiastica Ierarchia duobus versibus exametris apud grecos conprehensum:
+        Signa reverendorum sacrorum uniformioratione ad
+        singularem resolvisti unius luminis unam claritatem
+        </p>
+        
+        <p xml:id="pheh-prol-hashqd">Hec autem sunt in sermone De ecclesiastica Ierarchia capita septem: Primum que ecclesiastice Ierarchie traditio et que huius intentio. — Secundum autem, de hiis que fiunt in illuminatione. —Tertium, de hiis que fiunt in congregatione. — Quartum de hiis que sunt in unguento, et de perficiendis in ipso. — Quintum, de sacerdotalibus perfectionibus. — Sextum, de hiis ordinibus qui perficiunt. — Septimum, de hiis que fiunt in hiis qui dormierunt.
+        </p>
+        
+        <p xml:id="pheh-prol-epepep">Explicit prologus.</p>
+        
+
+        
+      </div>
+    </body>
+  </text>
+</TEI>

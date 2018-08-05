@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Ecclesiastica Hierarchia, Caput quintum</title>
+        <author ref="#Dionysius">Pseudo-Dionysius</author>
+        <editor/>
+        <respStmt>
+          <name>Marco Toste</name>
+          <resp when="2006">Digital text preparation </resp>
+        </respStmt>
+        <respStmt>
+          <name>João Rebalde</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-07">July 07, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-07-07">July 07, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Alonso1957">Printed edition: Pedro Hispano, Exposição sobre os livros do
+            Beato Dionísio Areopagita, ed. Manuel Alonso Alonso, Lisboa 1957</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-07" status="draft" n="0.0.0-dev">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"> </div>
+    </front>
+    <body>
+      <div xml:id="pheh-c5">
+        <head xml:id="pheh-c5-Hd1e101">De Ecclesiastica Hierarchia, Caput quintum</head>
+        <p xml:id="pheh-c5-d1e129">
+          Hec quidem est divinissima unguenti perfectionis operatio. Tempus autem sit post divinas
+          sanctas operationes exponere et sacerdotales ordines et participationes et virtutes
+          ipsorum et operationes et perfectiones et sub ipsis trinitatem subiectorum ordinum ut
+          demonstretur nostre Ierarchie ornatus, inordinatum quidem et inornatum et confusum munde
+          distinguens et expellens, ornatum autem et ordinatum et stabile ostendens in sanctorum
+          ordinum secundum ipsam proportionibus. Et universe quidem Ierarchie trinam divisionem in
+          Ierarchiis laudatis a nobis, bene, ut arbitror, exposuimus dicentes sicut secundum nos
+          traditio habet omne ierarchicum negotium dividi in sanctissimas perfectiones et divinos
+          ipsarum doctos et magistros et eos qui ab ipsis sancte perficiuntur.
+        </p>
+        <p xml:id="pheh-c5-d1e132">
+          Igitur sanctissima quidem celestium substantiarum Ierarchia perfectionem quidem habet
+          secundum propriam Dei et divinorum inmaterialissimum intellectum et deiformis integrum et,
+          sicut est possibile, ad Dei inmitationem habitum. Illuminatores autem et ad sanctam
+          perfectionem duces circa Deum primas substantias. Ipse enim ad subiectos ordines sanctos,
+          ut bone et proportionaliter deferunt semper deificas cogitationes donatas ipsis apud se
+          perfecta et sapientes faciente divinas mentes thearchia. Primis autem substantiis subiecti
+          ornatus et sicut per illas sursumacti, ad deificam thearchie illuminationem, qui
+          perficiuntur ordines sunt et vere nominantur. Post illam autem celestem et supermundanam
+          Ierarchiam ad ea que sunt secundum nos beneficio thearchia sanctissima ipsius dona
+          proferens, puris existentibus secundum eloquium dedit iuxta legem ierarchicam obscuris
+          verorum ymaginibus et remotissimis archetyporum ymaginationibus et difficilibus ad
+          contemplandum enigmatibus et figuris, non bene discretam habentibus coopertam in ipsis
+          contemplationem proportionali lumine sicut infirmis oculis sine lesione
+          supersplendens.
+        </p>
+        <p xml:id="pheh-c5-d1e135">
+          Huic autem secundum legem Ierarchie perfectio quidem est ad spiritualem Dei cultum
+          sursumactio. Manuductores autem ad istam, illi qui sanctum illud tabernaculum sancte docti
+          a Moyse primo secundum legem Ierarchiarum magistro et duce. Ad quod sanctum tabernaculum
+          introductive sancte scribens secundum legem ierarchicam ymaginem figure monstrate ipsi in
+          Syna monte vocabat cuncta secundum legem sanctificata. Qui autem perficiebantur erant hii
+          qui a legalibus signis proportionaliter ad perfectiorem doctrinam sursumagebantur.
+          Perfectiorem autem doctrinam theologia nostram dicit ierarchiam adinpletionem ipsam illius
+          vocans et sanctum finem. Est autem et celestis et legalis conmunicative medietati sumpta.
+          Huic quidem conmunicans in intelligibilibus contemplationibus. Illi autem quoniam et
+          sensibiliter signis variatur et per ipsa sancte ad divinum sursumagitur. Trinum autem
+          ierarchice divisionis similiter habet in sanctissimas perfectionum sanctificationes divisa
+          et deiformes sanctorum ministros et eas qui ab ipsis proportionaliter ad sancta sunt
+          adducti. Unaqueque autem trium divisionum nostre Ierarchie secundum consequentiam legalis
+          et divinioris nostra Ierarchia prima et media et ultima ordinantur virtute et proportionem
+          sanctis convenientem providens et universorum, bene ornatam et secundum ordinem
+          convenientem et coniunctivam communionem.
+        </p>
+        <p xml:id="pheh-c5-d1e138">
+          Igitur sanctissima quidem perfectionum sanctificatio, primam quidem habet deiformem
+          virtutem, sanctam inperfectorum mundationem; mediam autem mundatorum illuminativam
+          doctrinam, uitimam autem et priorum conpletivam doctorum in scientia propriarum
+          doctrinarum perfectionem. Sanctificantium autem ornatus in virtute prima per perfectiones
+          mundat inperfectos. In media autem illuminat mundatos. In ultima autem et summa
+          sanctificantium virtutum perficit eos qui divino lumini conmunicaverunt in scientificis
+          perfectionibus illuminationum quas contemplati sunt. Eorum autem qui perficiuntur, virtus
+          propria vel prima quidem est que est mundativa. Media autem post mundationem que est
+          illuminativa, et quorundam sanctorum contemplativa. Ultima autem et divinior aliis que
+          illuminata perfectiva scienda sanctarum illuminationum, quarum effecta est contemplatrix.
+        </p>
+        <p xml:id="pheh-c5-d1e142">
+          Igitur sancte quidem perfectionum sanctificationis triplex virtus est laudata. Sancte
+          quidem Dei generationis ex eloquiis demonstrata mundatione et illuminativa lucis
+          apparitione; congregationis autem et unguenti perfectione divinorum operum cognitione et
+          scientia, per que sancte ad thearchiam vivifica deductio et beatissima conmunio
+          perficiuntur. Nunc autem sacerdotalem ornatum consequenter narrare convenit in mundativam
+          et illuminativam et perfectivam bonam ordinationem divisum. Lex quidem est thearchie
+          sanctissima per prima sancta ad divinissimum ipsius sursumagi splendorem. Nunquid et
+          sensibiles substantias elementorum videmus ad magis ipsis cognata primum euntes et per
+          illa ad aliam propriam transferentes operationem? Convenienter igitur omnis invisibilis et
+          visibilis boni ornatus principium et collocatio ad deiformiores primos dat deificos radios
+          ire et per illos sicut deiformiores mentes ad participationem luminis et traditionem
+          proprie habentes, subiectis iuxta proportionem ipsorum illucet et superapparet.
+        </p>
+        <p xml:id="pheh-c5-d1e145">
+          Istorum igitur Deum primo inspicientium, est secundis copiose in conmensuratione ipsorum
+          demonstrare, ab ipsis sancte inspectas divinas visiones et docere ierarchica eorum qui cum
+          scientia perfectiva divina universe Ierarchie que est secundum ipsos, bene sunt docti et
+          perfectivam docendi virtutem preacceperunt. Et tradere secundum dignitatem sancta, est
+          eorum qui scienter et integre participaverunt sacerdotali perfectione. Igitur divinus
+          Ierarcharum ordo, primus est quidem Deum inspicientium. Summus autem rursus et ultimus,
+          idem. Etenim in ipso terminatur et adimpletur omnis nostre Ierarchie ornatus. Sicut enim
+          universam Ierarchiam videmus in Ihesu terminatam, ita unamquamque in proprio divino
+          Ierarcha. Ierarchici autem ordinis virtus in omnibus capit sanctis totalitatibus et per
+          omnes sanctos ordines operatur proprie Ierarchie misteria. Excellenter autem ipsi preter
+          reliquos ordines ad propriam operationem divina lex attribuit diviniores sanctificationes.
+          Iste autem sunt perfective thearchice virtutis ymagines perficientes omnia divinissima
+          signa et omnes sanctos ornatus. Si enim et a sacerdotibus perficiuntur quedam venerandorum
+          signorum, sed nequaquam sanctam Dei generationem sacerdos operabitur sine divinissimo
+          unguento. Neque divine conmunionis perficiet misteria nisi divinissimo altari
+          conmunicativis prepositis signis. Sed neque ipse sacerdos erit nisi a ierarchicis
+          perfectionibus ad hoc sortem fuerit consequtus. Unde divina legislatio sacerdotalium
+          ordinum sanctificationem et divini unguenti perfectionem et sancti altaris perfectionis
+          operationem divinorum ierarcharum perfectivis virtutibus singulariter segregavit.
+        </p>
+        <p xml:id="pheh-c5-d1e148">
+          Est igitur ierarchicus ordo perfectiva virtute adimpletus, perfectiva sacerdotii
+          excellenter perficiens, et scientias sanctorum manifeste docens et edocens proportionales
+          ipsorum et sanctos habitus et virtutes. Sacerdotum autem illuminativus ordo ad sanctas
+          perfectionum inspectiones manuducit eos qui perficiuntur a divinis Ierarchis, et cum ipsis
+          sancte agens proprias sanctas operationes, in quibus quidem ipse operatur divinas
+          operationes, monstrans per sanctissima signa, et conteemplativos procedentes faciens, et
+          sanctarum perfectionum conmunicatores, ad Ierarcham autem mittens desiderantes scientiam
+          sanctificationum quas sunt contemplati. Ministrorum autem ordo qui est mundativus, et
+          dissimilium separativus, ante accessum ad sanctificationem sacerdotum, mundat accedentes,
+          mundos ipsos faciens a contrariis, et ad sanctificativam inspectionem et conmunionem
+          opportunos. Unde in sancta Dei generatione ministri accedentem vetere exuunt veste,
+          amplius quidem et discalciant et ad occidentem ad abrenuntiationem statuunt et rursus ad
+          orientem transducunt. Nam mundativi sunt ordinis et virtutis, abicere totaliter
+          precipientes accedentibus prioris vite vestes, et prioris vite obscurum ostendentes, et
+          docentes illos abrenuntiantes obscuris, ad illuminativa transduci. Mundativis igitur est
+          ministrorum ornatus ad manifestas sanctorum sanctificationes sursumagentes mundatos, et
+          inperfectiores mundans et educens mundativis eloquiorum illuminationibus et doctrinis, et
+          adhuc inmundos a mundis munde segregans, propter quod et ad sanctas ipsum statuit portas
+          ierarchica legis positio, accedentium ad sancta introitum inperfectis mundationibus
+          significans, et ad sanctas ipsorum inspectiones et conmuniones adductionem mundativis
+          virtutibus tradens et per istas illos inmaculatos suscipiens et perfectos operans
+          demonstrat.
+        </p>
+        <p xml:id="pheh-c5-d1e151">
+          Est igitur Ierarcharum quidem ordo perfectivus et perfecta operans, sacerdotum autem
+          lucidus et illuminativus, ministrorum vero purgativus et discretivus, videlicet ierarchico
+          ordine non perficere virtutem in se ab ipsa et illuminativam et mundativam scientiam solum
+          sed et illuminare et mundare sciente, et habente sacerdotum. Nam minores ad maiores
+          transire nequeunt, insuper neque est fas illis ad talem conari iactantiam. Diviniores vero
+          virtutes cum propriis et subiectas ipsorum sancte perfectioni scientias cognoscunt; tamen,
+          quoniam divinarum operationum sunt ymagines sacerdotales ornatus, bene ornati et non
+          confusi ordinis divinarum operationum ordinatas illuminationes in se ipsis ostendentes in
+          primas et medias et ultimas sanctas operationes et ordines in discretionibus ierarchicis
+          divisi sunt manifestantes, quemadmodum dixi, in se ipsis divinarum operationum ordinatum
+          et inconfusum. Nam, quoniam thearchia illas mentes in quibus est, mundat prius, post
+          illuminat et illuminatas perficit ad deiformem perfectionis operationem, convenienter
+          ierarchica divinarum ymaginum diligentia in discretos se ipsam dividit et ordines et
+          virtutes, manifeste ostendens ierarchicas operationes in sanctissimis et mundissimis
+          ordinibus firme et inconfuse stantes. Sed quoniam sacerdotales et ordines et
+          participationes et virtutes ipsorum et operationes diximus, sicut nobis est possibile, et
+          sanctissimas ipsorum, sicut possumus, inspiciamus perfectiones.
+        </p>
+        <p xml:id="pheh-c5-d1e154">
+          Ierarcha quidem et ad ierarchicam perfectionem adductus ambos pedes inclinans ante
+          divinum altare super caput habet a Deo tradita eloquia et ierarchicam manum, et hoc modo a
+          perficiente ipsum Ierarcha sanctissimis invocationibus perficitur. Sacerdos autem ambos
+          pedes inclinans ante altare super caput habet ierarchicam dexteram et hoc modo a
+          perficiente ipsum ierarcha sanctificatis invocationibus sanctificatur. Minister vero unum
+          pedem inclinans coram altari super caput habet perficientis Ierarche dexteram, perfectus
+          ab ipso perfectivis ministrorum invocationibus. Unicuique autem ipsorum cruciformis
+          signatio fiat a perficiente Ierarcha. Et secundum unumquemque predicatio sancta fit et
+          perfectivum osculum, osculante omni sacerdotali presente viro, et perficiente eum, qui ad
+          aliquem dictorum sacerdotalium ordinum erit perfectus.
+        </p>
+        <p xml:id="pheh-c5-d1e157">
+          Conmunia quidem sunt et ierarchis et sacerdotibus et ministris in sacerdotalibus ipsorum
+          perfectionibus ad divinum altare introductio et inclinatio, sacerdotalis manus inpositio,
+          cruciformis signatio, predicatio, perfectivum osculum. Segregata autem et electa ierarchis
+          quidem eloquiorum super caput appositio, non habentibus hoc subiectis ordinibus.
+          Sacerdotibus autem amborum pedum inclinado non habente hoc ministrorum perfectione. Nam
+          ministri, quemadmodum dictum est, unum pedem inclinant tantum. Igitur ad sanctum quidem
+          altare adductio et inclinatio significat omnes qui sacerdotaliter perficiuntur supponere
+          universaliter perfectionis principi Deo propriam vitam et eorum intellectualem totalitatem
+          castissimam ipsi, et sanctificatam offerre et conformem et, ut possibile, dignam
+          existentem thearchico et sanctuario et altari, sanctificantem sancte deiformes mentes.
+        </p>
+        <p xml:id="pheh-c5-d1e161">
+          Ierarchice autem manus inpositio simul quidem manifestat perficientis principalem
+          perfectionem sub qua sicut pueri sancti custodiuntur; qui paterne ipsis quidem habitum et
+          virtutem sacerdotalem tribuit, contrarias autem ipsorum virtutes conterit. Docet autem
+          simul et omnes perficere sacerdotales operationes, sicut sub Deo agentes, perfectos, et
+          propriarum operadotium in omni ipsum ducem habentes. Cruciformis vero signatio ab
+          universis simul appetitibus vacationem et vitam ad Dei inmitationem aspicientem
+          indeclinabiliter ad virilem Ihesu deitatem, aut, ut magis dicatur; divinissimam vitam qui
+          usque ad crucem et mortem cum thearchica inmunitate peccati pervenit. Et ita viventes,
+          sicut conformes, insignit cruciformi propria peccad inmunitatis ymagine
+        </p>
+        <p xml:id="pheh-c5-d1e164">
+          Sanctam autem, perfectionum et eorum qui perficiuntur, predicationem Ierarcha clamat
+          misterio monstrante quod sanctitatis perfector in amore Dei declarativus est thearchice
+          electionis, non ipse propria gratia eos qui perficiuntur, ad sacerdotalem agens
+          perfectionem sed a Deo motus ad omnes sacerdotales sanctificationes. Ita Moyses legalis
+          sanctitatis perfector neque fratrem existentem Aaron ad sacerdotalem agit perfectionem, et
+          amatorem Dei ipsum esse, et sacerdotalem arbitratus usquequo a Deo ad hoc motus sub
+          perfectionis principe Deo sacerdotalem perfectionem ierarchice consummavit. Sed et hoc
+          thearchicus noster et primus sanctitatis perfector (factus est enim et hoc propter nos)
+          benignissimus Ihesus non se ipsum glorificavit, sicut eloquia dicunt, sed qui locutus est
+          ad ipsum: Tu es sacerdos in eternum secundum ordinem Melchisedech; propter quod et ipse ad
+          sacerdotalem perfectionem agens discipulos, quamvis existens ut Deus perfectionis
+          princeps, tamen ad sanctissimum ipsius patrem et thearchicum spiritum principalem reponit
+          ierarchice perfectionem, annuntians discipulis, sicut eloquia dicunt, a Ierosolimis ne
+          discedite sed expectate promissionem patris quam audistis a me, quoniam vos baptizabimini
+          spiritu sancto.
+        </p>
+        <p xml:id="pheh-c5-d1e167">
+          Et quidem et ipse Petrus condiscipulorum summus in coordinato sibi et ierarchico denario
+          ad .XII. discipulorum sacerdotalem veniens perfectionem, thearchie religiose dimisit
+          electionem, dicens: Demonstra quem eligis. Et a divina sorte deiformiter demonstratum ad
+          sancti duodenarii ierarchicum suscepit numerum. De divina autem sorte que super Mathiam
+          divinitus cecidit, alii quidem alia dixerunt non religiose, sicut arbitror. Meam autem et
+          ipse intentionem dicam. Videntur enim mihi eloquia sortem nominare thearchicum quoddam
+          donum demonstrans illi ierarchico choro a divina electione susceptum: set et hoc quod
+          divinum ierarcham non proprio motu oportet sacerdotales facere perfectiones. Sed sub Deo
+          movente istas ierarchice et, ut decet, celestem perficere.
+        </p>
+        <p xml:id="pheh-c5-d1e170">
+          Osculum autem in fine sacerdotalis perfectionis sanctam demonstrationem habet. Omnes
+          enim quicumque presentes sunt, de sacerdotalibus existentes ordinibus sed et ipse qui
+          perficit Ierarcha, osculatur eum qui perfectus est. Nam quando sacerdotalibus habitibus et
+          virtutibus vocatione et sanctificatione ad sacerdotalem mens sancta pervenit perfectionem,
+          amabilis est coordinatis et sanctissimis ordinibus ad deiformissimam pulcritudinem
+          sursumacta, amans conformes mentes, et ab illis sancte amata. Unde ad se invicem
+          sacerdotale osculum sanctificatur et conformium mentium sanctam coniunctionem monstrans et
+          in se invicem amabilem exultationem sicut integre servantem sacerdotali formatione
+          deiformissimam pulchritudinem.
+        </p>
+        <p xml:id="pheh-c5-d1e173">
+          Igitur hec quidem, sicut dixi, conmunia totius sacerdotalis perfectionis. Ierarcha autem
+          habet segregatam eloquiorum super caput sanctissimam inpositionem. Quoniam enim perfectiva
+          omnis sanctificationis virtus et scientia divina ierarchis datur a thearchica et
+          perfectionis principe bonitate, convenienter super capita ierarchica superponuntur a Deo
+          tradita eloquia conprehensive et scienter manifesfative omnis thearchie, divine
+          operationis, Dei apparitionis, sanctorum et operum et sermonum a benefica thearchia nostre
+          ierarchie donatorum, sicut deiformi ierarcha: omni quidem sacerdotali virtute integraliter
+          participaturo, omnium autem ierarchicarum sanctarum locutionum et sanctarum operationum
+          vera et a Deo tradita scientia non illuminando tantum sed et aliis proportionibus
+          ierarchicis tradituro et perfecturo in divinissimis cognitionibus et sursumactionibus
+          summis ierarchice universa totius Ierarchie perfectissima. Sacerdotibus autem duorum pedum
+          inclinatio segregata est preter reliquum ornatum sicut unum inclinante ministrorum ordine,
+          et ita ierarchica figura perfectio.
+        </p>
+        <p xml:id="pheh-c5-d1e176">
+          Igitur inclinatio quidem significat subiectam adductionem adducentis, supponentis Deo
+          hoc quod sancte est adductum. Quoniam, ut multotiens diximus, tres sanctitatis perfectorum
+          ornatus per tres sanctissimas perfectiones et virtutes president tribus eorum qui
+          perficiuntur, ordinibus et sub divina iuga salutarem ipsorum sancte operantur adductionem,
+          convenienter ministrorum ordo sicut tantum mundativus unam significat mundatorum
+          adductionem, divino altari eam supponens, sicut in ipso mundatis mentibus supermundane
+          sanctificatis. Sacerdotes autem ambos pedes inclinant sicut adductis sancte ab ipsis non
+          tantum mundatis sed et manifestantissimis sanctis operationibus ipsorum purgata vita
+          sursumagendo ad contemplativum habitum et virtutem sanctifice perfectis. Ierarcha autem
+          ambos pedes inclinat et super caput habet a Deo tradita eloquia ierarchice agens a
+          ministrorum virtute mundatos et a sacerdotali illuminatos ad sacrorum inspectorum ab ipsis
+          proportionalem ipsis scientiam et per ipsam perficiens adductos ad integram secundum ipsos
+          sanctificationem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
